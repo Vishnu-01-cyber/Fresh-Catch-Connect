@@ -56,3 +56,55 @@
 
    ```bash
    git clone https://github.com/Vishnu-01-cyber/Fresh-Catch-Connect.git
+
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd Fresh-Catch-Connect
+Open the backend (FishingApp) in Visual Studio and set up your connection string in appsettings.json.
+
+Open the Angular frontend in VS Code:
+
+bash
+Copy
+Edit
+cd frontend
+npm install
+ng serve
+Make sure the API and frontend are running correctly.
+
+📚 Literature Survey
+Includes references from systems such as:
+
+South Korea Online Fish Market
+
+E-marketplace for Sustainable Seafood (US)
+
+Frameworks and Social Media usage in the seafood industry
+
+👥 Authors
+Babin B (962820205010)
+
+Vishnu C (962820205039)
+
+Abiram N (9628202050301)
+
+🎓 Project Info
+Degree: B.Tech Information Technology
+
+Institution: University College of Engineering, Nagercoil
+
+Affiliated to: Anna University, Chennai
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+pgsql
+Copy
+Edit
+
+---
+
+Would you like me to save this as a file and help you upload it to your GitHub repo directly? Or do yo
