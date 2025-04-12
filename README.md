@@ -85,11 +85,11 @@ E-marketplace for Sustainable Seafood (US)
 Frameworks and Social Media usage in the seafood industry
 
 👥 Authors
-Babin B (962820205010)
+Babin B
 
-Vishnu C (962820205039)
+Vishnu C
 
-Abiram N (9628202050301)
+Abiram N 
 
 🎓 Project Info
 Degree: B.Tech Information Technology
@@ -100,11 +100,3 @@ Affiliated to: Anna University, Chennai
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-pgsql
-Copy
-Edit
-
----
-
-Would you like me to save this as a file and help you upload it to your GitHub repo directly? Or do yo
