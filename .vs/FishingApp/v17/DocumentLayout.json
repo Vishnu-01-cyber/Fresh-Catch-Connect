@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FinalYear\\Project\\FishingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\isellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\isellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\Web API\\FishingApp\\FishingApp\\BAL\\ReservationBAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\Web API\\FishingApp\\FishingApp\\BAL\\IReservationBAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\Web API\\FishingApp\\FishingApp\\Repository\\IReservationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6406F0-6594-4C0E-8DE0-1B0BF24C5AFF}|DAL\\DAL.csproj|e:\\finalyear\\project\\fishingapp\\dal\\isqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6406F0-6594-4C0E-8DE0-1B0BF24C5AFF}|DAL\\DAL.csproj|solutionrelative:dal\\isqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6406F0-6594-4C0E-8DE0-1B0BF24C5AFF}|DAL\\DAL.csproj|e:\\finalyear\\project\\fishingapp\\dal\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6406F0-6594-4C0E-8DE0-1B0BF24C5AFF}|DAL\\DAL.csproj|solutionrelative:dal\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\isellerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\isellerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\mapper\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\mapper\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\iloginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\iloginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\mapper\\sellermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\mapper\\sellermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\model\\sellerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\model\\sellerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\sellerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\sellerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\model\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\model\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\model\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\model\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\icustomerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\icustomerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\customerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\customerbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\mapper\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\mapper\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\locationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\locationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\bal\\ilocationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\bal\\ilocationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\model\\locationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\model\\locationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|e:\\finalyear\\project\\fishingapp\\fishingapp\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244B4444-3387-489D-8288-A563F7DCC151}|FishingApp\\FishingApp.csproj|solutionrelative:fishingapp\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Program.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Program.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Program.cs",
+              "RelativeToolTip": "FishingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Controllers\\SellerController.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "FishingApp\\Controllers\\SellerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FishingApp\\appsettings.json",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\appsettings.json",
+              "RelativeToolTip": "FishingApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T07:01:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\SellerRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\SellerRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\SellerRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISellerRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ISellerRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\ISellerRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ISellerRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\ISellerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\LoginRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\LoginRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISqlHelper.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\DAL\\ISqlHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\ISqlHelper.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\DAL\\ISqlHelper.cs",
+              "RelativeToolTip": "DAL\\ISqlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\DAL\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\SqlHelper.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\DAL\\SqlHelper.cs",
+              "RelativeToolTip": "DAL\\SqlHelper.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISellerBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ISellerBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\ISellerBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ISellerBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\ISellerBAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Controllers\\FileController.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\FileController.cs",
+              "RelativeToolTip": "FishingApp\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginMapper.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Mapper\\LoginMapper.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Mapper\\LoginMapper.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Mapper\\LoginMapper.cs",
+              "RelativeToolTip": "FishingApp\\Mapper\\LoginMapper.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILoginBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ILoginBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\ILoginBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ILoginBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\ILoginBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SellerMapper.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Mapper\\SellerMapper.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Mapper\\SellerMapper.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Mapper\\SellerMapper.cs",
+              "RelativeToolTip": "FishingApp\\Mapper\\SellerMapper.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAIAwwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SellerData.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\SellerData.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Model\\SellerData.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\SellerData.cs",
+              "RelativeToolTip": "FishingApp\\Model\\SellerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SellerBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\SellerBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\SellerBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\SellerBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\SellerBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerData.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\CustomerData.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Model\\CustomerData.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\CustomerData.cs",
+              "RelativeToolTip": "FishingApp\\Model\\CustomerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "FishingApp\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\LoginBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\LoginBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\LoginBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\LoginBAL.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\LoginData.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Model\\LoginData.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\LoginData.cs",
+              "RelativeToolTip": "FishingApp\\Model\\LoginData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA3wBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICustomerBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ICustomerBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\ICustomerBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ICustomerBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\ICustomerBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\CustomerBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\CustomerBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\CustomerBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\CustomerBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerMapper.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Mapper\\CustomerMapper.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Mapper\\CustomerMapper.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Mapper\\CustomerMapper.cs",
+              "RelativeToolTip": "FishingApp\\Mapper\\CustomerMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FishingApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LocationBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\LocationBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\LocationBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\LocationBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\LocationBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILocationBAL.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ILocationBAL.cs",
+              "RelativeDocumentMoniker": "FishingApp\\BAL\\ILocationBAL.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\BAL\\ILocationBAL.cs",
+              "RelativeToolTip": "FishingApp\\BAL\\ILocationBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\CustomerRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Controllers\\LocationController.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "FishingApp\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\ILoginRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LocationData.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\LocationData.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Model\\LocationData.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Model\\LocationData.cs",
+              "RelativeToolTip": "FishingApp\\Model\\LocationData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\ILocationRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\ILocationRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\ILocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "FishingApp\\Repository\\LocationRepository.cs",
+              "ToolTip": "E:\\FinalYear\\Project\\FishingApp\\FishingApp\\Repository\\LocationRepository.cs",
+              "RelativeToolTip": "FishingApp\\Repository\\LocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:01:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationBAL.cs",
+              "DocumentMoniker": "D:\\Project\\Web API\\FishingApp\\FishingApp\\BAL\\ReservationBAL.cs",
+              "ToolTip": "D:\\Project\\Web API\\FishingApp\\FishingApp\\BAL\\ReservationBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:23:47.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReservationBAL.cs",
+              "DocumentMoniker": "D:\\Project\\Web API\\FishingApp\\FishingApp\\BAL\\IReservationBAL.cs",
+              "ToolTip": "D:\\Project\\Web API\\FishingApp\\FishingApp\\BAL\\IReservationBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:23:47.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Web API\\FishingApp\\FishingApp\\Repository\\IReservationRepository.cs",
+              "ToolTip": "D:\\Project\\Web API\\FishingApp\\FishingApp\\Repository\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:23:47.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
